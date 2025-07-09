@@ -9,7 +9,7 @@ This repository contains Python scripts for common system administration tasks a
 - **firewall-rule-extractor.py** - Extracts firewall rules and saves them to a JSON file.
 - **multi-system-audit.py** - Gathers system info and outputs it to a JSON report.
 - **patch-compliance.py** - Checks for available updates and applies them automatically.
-- **poll-weather.py** - Polls weather info from specified location using Open-Meteo API.
+- **poll-weather.py** - Fetches weather data from Open-Meteo API and logs the results.
 - **software-inventory.py** - Collects installed software list and logs it in JSON format.
 - **ssh-key-audit.py** - Audits user SSH keys and logs authorized ones per account.
 - **windows-service-checker.py** - Verifies AD, DNS, and DHCP services are running.
